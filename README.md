@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Este proyecto fue generado con Vite. 
+npm create vite@latest prueba-tecnica-vue -- --template vue-ts
 
 ## Descargar el proyecto 
  Por la opcion Download ZIP de la pagina de github 
