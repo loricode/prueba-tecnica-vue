@@ -5,7 +5,7 @@ npm create vite@latest prueba-tecnica-vue -- --template vue-ts
 ## Descargar el proyecto 
  Por la opcion Download ZIP de la pagina de github 
 
- Si lo va a descargar por la terminal utilizar git clone https://github.com/loricode/prueba-tecnica-vue.git  si tiene git instalado en su pc, empezara al descar el proyecto
+ Si lo va a descargar por la terminal utilizar git clone https://github.com/loricode/prueba-tecnica-vue.git  si tiene git instalado en su pc, empezara al descargar el proyecto
 
 Despues de tener el proyecto en el pc entrar a la carpeta y utiliza el comando `npm i` para instalar las dependecias.
 
